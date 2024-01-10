@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FF Guide</string>
+
+    <string name="str_share_with">Share with</string>
+    <string name="str_share_app_pre_text">Kawasaki Ninja H2 Bike</string>
+    <string name="str_unable_to_send_try_again">Unable to send this try again</string>
+    <string name="str_unable_to_find_market">unable to find market app</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="privacy_policy">https://stackoverflow.com/questions/49277797/how-to-display-data-from-firestore-in-a-recyclerview-with-android</string>
+    <string name="start_sound">Start Sound</string>
+    <string name="bike_sound">Bike Sound</string>
+
+
+    //Replace the ads unit a
+    <string name="applovin_inter">05423ad43267556b</string>
+    <string name="applovin_netive">a1f042f86e38620c</string>
+    <string name="applovin_reward">736a693dbf3f4c49</string>
+    <string name="applovin_sdk">_AZ7TkTRuqMRADHmrKfZNtw0vJFSzcfDgSsV5voTGrXU5rAlC4XFt6RPV7DSuMPh-hJ1Gwe6rwtLQw1PnkyfeI</string>
+
+    <string-array name="arr_nav_items">
+    <item>Rate App</item>
+    <item>Share App</item>
+    <item>Contact us</item>
+    <item>Contact us</item>
+    <item>Contact us</item>
+    </string-array>
+</resources>
